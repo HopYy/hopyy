@@ -1,4 +1,4 @@
-# 😎 Stipe Bošnjak
+# Stipe Bošnjak
 
 My name is Stipe Bošnjak, and I’m a front-end developer from Croatia. I have 3 years of self-taught coding experience, focused on building user-friendly web interfaces.
 
